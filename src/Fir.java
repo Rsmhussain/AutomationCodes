@@ -25,7 +25,7 @@ public class Fir {
 		  //driver.findElement(By.id("Password")).sendKeys("Rvt@1234567");;
 		  WebElement login=driver.findElement(By.xpath("//*[@id='frmLogin']/fieldset/div[2]/button/span"));
 		  login.click();
-		  System.out.println("Sheik loged In");
+		  System.out.println("Sheik loged In");   
 		  
 	}
 }
