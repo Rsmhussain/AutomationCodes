@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/jar_files/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/jar_files/guice-4.1.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/jar_files/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/jar_files/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/jar_files/snakeyaml-1.21.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/jar_files/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/base-1.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/checker-qual-3.5.0.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/elemental2-promise-1.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/guava-30.1-jre.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/guava-gwt-30.1-jre.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/jsinterop-annotations-1.0.2.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="G:/Softwares Downloads/Guava Jar/jar_files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
